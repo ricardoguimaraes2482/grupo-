@@ -1,0 +1,1 @@
+var json_Vrtices_10 = {"type":"FeatureCollection","name":"Vrtices_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
